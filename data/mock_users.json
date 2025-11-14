@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "name": "Alice Smith",
+    "email": "alice@example.com",
+    "role": "Analyst",
+    "active": true,
+    "login_count": 12
+  },
+  {
+    "id": 2,
+    "name": "Brian Jones",
+    "email": "brian@example.com",
+    "role": "Administrator",
+    "active": true,
+    "login_count": 22
+  },
+  {
+    "id": 3,
+    "name": "Carla Patel",
+    "email": "carla@example.com",
+    "role": "Analyst",
+    "active": false,
+    "login_count": 5
+  },
+  {
+    "id": 4,
+    "name": "Daniel Wu",
+    "email": "daniel@example.com",
+    "role": "Support",
+    "active": true,
+    "login_count": 16
+  }
+]
